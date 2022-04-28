@@ -1,0 +1,20 @@
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\ASUS-GL552VW\source\repos\sudoku\sudoku\obj\Debug\sudoku.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\bin\Debug\sudoku.exe.config
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\bin\Debug\sudoku.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\bin\Debug\sudoku.pdb
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.csproj.AssemblyReference.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.Form1.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.Properties.Resources.resources
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.csproj.GenerateResource.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.exe
+C:\Users\ASUS-GL552VW\source\repos\بازی سازی\sudoku\sudoku\obj\Debug\sudoku.pdb
