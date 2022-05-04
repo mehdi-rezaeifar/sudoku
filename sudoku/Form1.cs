@@ -14,7 +14,7 @@ namespace sudoku
     public partial class Form1 : Form
     {
         TextBox[,] cells;
-        int a = 0;
+        
         public Form1()
         {
             InitializeComponent();
@@ -41,6 +41,7 @@ namespace sudoku
         private void button1_Click(object sender, EventArgs e)
         {
             OpenFileDialog x = new OpenFileDialog();
+            
 
             if (x.ShowDialog() == DialogResult.OK)
             {
@@ -65,8 +66,10 @@ namespace sudoku
                     {
                         if (numbers[index] != "0")
                         {
+                            cells[j, i].BackColor = Color.DarkGray;
                             cells[j, i].ReadOnly = true;
                             cells[j, i].Text = numbers[index];
+                            
                         }
                         index++;
                     }
@@ -164,7 +167,6 @@ namespace sudoku
             
         }
 
-        
     }
 }
    
